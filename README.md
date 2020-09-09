@@ -1,3 +1,3 @@
 # portfolio
 My personal portfolio.
-http://haritachocha.com/
+http://www.haritachocha.com/
